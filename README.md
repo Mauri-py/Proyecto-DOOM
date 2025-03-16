@@ -81,7 +81,7 @@ SELECT * FROM jugadores ORDER BY puntuacion DESC LIMIT 2;
 ---
 
 ## 📌 **Créditos**
-🔹 Proyecto desarrollado por **[Tu Nombre o Alias]**.  
+🔹 Proyecto desarrollado por **[QacMauri]**.  
 🔹 Basado en el clásico **DOOM** de id Software.  
 
 Si te gustó, ¡no olvides darle una ⭐ en el repo! 🦌🔥  
