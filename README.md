@@ -87,5 +87,5 @@ SELECT * FROM jugadores ORDER BY puntuacion DESC LIMIT 2;
 Si te gustó, ¡no olvides darle una ⭐ en el repo! 🦌🔥  
 
 ---
-
+ 
 ![Juego](Juego.png)
