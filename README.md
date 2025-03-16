@@ -11,7 +11,7 @@ Un solo nivel, acción infinita y registro de puntajes en **MySQL**.
 ✅ Base de datos **MySQL** para registrar puntajes de **2 jugadores**.  
 ✅ 🎯 Enfréntate a hordas de enemigos y supera tu récord.  
 
-🎮 **[![Inicio](Inicio.png)]**  
+![Inicio](Inicio.png) 
 
 ---
 
@@ -88,4 +88,4 @@ Si te gustó, ¡no olvides darle una ⭐ en el repo! 🦌🔥
 
 ---
 
-🎮 **[![Juego](Juego.png)]**  
+![Juego](Juego.png)
